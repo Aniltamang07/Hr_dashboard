@@ -1,6 +1,6 @@
 # Hr_dashboard
 
-This dataset simulates a comprehensive set of employee information typically found in HR systems. It includes demographic details (such as age, gender, and ethnicity), job-related information (like roles, departments, and work locations), compensation data (including salary, bonuses, and benefits), performance evaluations (covering ratings, promotions, and achievements), and attrition data (such as reasons for leaving, employee tenure, and exit interviews). This data helps HR professionals analyze workforce trends, performance, and retention."
+This dataset simulates a set of employee information typically found in HR systems, including demographics, job details, salary, performance evaluations, and attrition data.
 
 [![Power Bi Dashboard](dashboard.png)](https://app.powerbi.com/groups/me/reports/acf9af2c-2cbe-42fe-9b64-2755975492f1/0fd65a742fe4300614d9?experience=power-bi)
 ---
