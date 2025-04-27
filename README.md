@@ -1,13 +1,12 @@
 # Hr_dashboard
 
-Account information for 10,000 customers at a European bank, including details on their credit score, balance, products, and whether they have churned.
+This dataset simulates a comprehensive set of employee information typically found in HR systems. It includes demographic details (such as age, gender, and ethnicity), job-related information (like roles, departments, and work locations), compensation data (including salary, bonuses, and benefits), performance evaluations (covering ratings, promotions, and achievements), and attrition data (such as reasons for leaving, employee tenure, and exit interviews). This data helps HR professionals analyze workforce trends, performance, and retention."
 
 [![Power Bi Dashboard](dashboard.png)](https://app.powerbi.com/groups/me/reports/acf9af2c-2cbe-42fe-9b64-2755975492f1/0fd65a742fe4300614d9?experience=power-bi)
 ---
 
-## 🚀 Overview
-
-Customer churn is a critical issue in the banking industry. Understanding why customers leave and how to retain them is essential for long-term profitability. This Power BI project explores churn patterns based on age, tenure, credit score, card ownership, and product usage.
+## 📌 Overview
+A Power BI dashboard providing actionable insights into workforce dynamics, including hiring trends, attrition risks, compensation analysis, and demographic distribution.ership, and product usage.
 
 ---
 
