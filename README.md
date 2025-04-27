@@ -2,7 +2,7 @@
 
 This dataset simulates a set of employee information typically found in HR systems, including demographics, job details, salary, performance evaluations, and attrition data.
 
-[![Power Bi Dashboard](dashboard.png)](https://app.powerbi.com/groups/me/reports/acf9af2c-2cbe-42fe-9b64-2755975492f1/0fd65a742fe4300614d9?experience=power-bi)
+[![Power Bi Dashboard](dashboard.png)](https://app.powerbi.com/groups/me/reports/b3c9b73e-1d45-4fc2-898a-958e22a6ff9b/75c66bcdeacb9a3680f4?experience=power-bi)
 ---
 
 ## 📌 Overview
