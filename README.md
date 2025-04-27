@@ -21,7 +21,6 @@ A Power BI dashboard providing actionable insights into workforce dynamics, incl
 | **Rentention Rate**         | 89.21%     | Percentage of Emp working |
 | **atteration Rate**          | 10.79%     | Percentage of Terminated Emp |
 | **Gender Diversity Ratio** | 645.4     | Average credit score across all customers |
-| **Active Credit Score**  | 651.9     | Average credit score among active customers |
 
 ---
 
